@@ -1,1 +1,1 @@
-print('galo dari myproject2')
+print('halo dari myproject2')
